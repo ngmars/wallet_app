@@ -1,0 +1,177 @@
+.name-box{
+    width:96vw;
+    height:20vh;
+    position:relative;
+    margin: 3vh 2vw 3vh 2vw;
+    border-radius: 5px;
+    background-color: white; 
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.25);
+}
+.balance-box{
+    width:96vw;
+    height:10vh;
+    position:relative;
+    margin: 3vh 2vw 3vh 2vw;
+    border-radius: 5px;
+    background-color: white; 
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.25);
+}
+
+.options-box{
+    width:96vw;
+    position:relative;
+    margin: 3vh 2vw 3vh 2vw;
+    border-radius: 5px;
+    background-color: white; 
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.25);
+    padding-bottom: 3vh;
+}
+.name-and-edit{
+    width:96vw;
+    height:6vh;
+    border-bottom: 0.5px solid rgba(0, 0, 0, 0.25);
+}
+
+.company-name{
+    font-family: 'Noto Sans';
+    font-weight: 700;
+    float: left;
+    font-size: 1.5rem;
+    margin-left: 2vw;
+    margin-top: 1vh;
+    color:rgba(84, 84, 84, 1);
+}
+
+.edit-button{
+    float: right;
+    margin-right: 2vw;
+    margin-top: 1vh;
+}
+
+.row1-company-name {
+    width:96vw;
+    height:7vh;
+}
+.row2-company-name{
+    width:96vw;
+    height:7vh;
+}
+.phone-number-company-name {
+    font-family: 'Noto Sans';
+    margin-top: 2vh;
+    font-weight: 400;
+    float: left;
+    margin-left: 2vw;
+    color:rgba(127, 127, 127, 1)
+}
+
+.email-company-name{
+    font-family: 'Noto Sans';
+    margin-top: 2vh;
+    font-weight: 400;
+    float: right;
+    margin-right: 2vw;
+    color:rgba(127, 127, 127, 1);
+}
+
+.buisness-company-name{
+    font-family: 'Noto Sans';
+    margin-top: 2vh;
+    font-weight: 400;
+    float: left;
+    margin-left: 2vw;
+    color:rgba(127, 127, 127, 1)
+}
+
+.money-balance-box{
+    float:left;
+}
+.money-balance-text{
+    font-family: 'Noto Sans';
+    font-weight: 700;
+    float: left;
+    font-size: 1.5em;
+    margin-left: 2vw;
+    margin-top: 2vh;
+    color:rgba(84, 84, 84, 1);
+}
+
+.wallet-balance-text{
+    font-family: 'Noto Sans';
+    margin-top: 2vh;
+    font-weight: 400;
+    margin-left: 2.5vw;
+    color:rgba(127, 127, 127, 1)
+}
+
+.recharge-button-div{
+    float: right;
+}
+
+.recharge-button{
+    background-color: rgba(27, 174, 42, 1);
+    color:white;
+    border-color: rgba(27, 174, 42, 1);
+    font-family: 'Noto Sans';
+    font-weight: 700;
+    font-size: 1.2em;
+    border-radius: 3px;
+    margin-top: 3vh;
+    margin-right: 2vw;
+}
+.options-box{
+    padding-top: 1vh;
+}
+.my-transaction-text{
+    font-family: 'Noto Sans';
+    color: rgba(84, 84, 84, 1);
+    margin-left: 2vw;
+    margin-top: 2vh;
+    font-weight: 600;
+    font-size: 1.2em;
+}
+.sign-out-text{
+    font-family: 'Noto Sans';
+    color: rgba(84, 84, 84, 1);
+    margin-left: 2vw;
+    margin-top: 2vh;
+    font-weight: 600;
+    font-size: 1.2em;
+}
+
+.col1-balance-box{
+    float: left;
+    width: 30vw;
+    border-right: 1px solid rgba(212, 212, 212, 1);
+    margin: 1vh 0vw 1vh 2vw;
+    height: 8vh;
+  }
+  .col2-balance-box{
+    float: left;
+    width: 32vw;
+    border-right: 1px solid rgba(212, 212, 212, 1);
+    margin: 1vh 0vw 1vh 0vw;
+    height: 8vh;
+  }
+  .col3-balance-box{
+    float: left;
+    width: 30vw;
+    margin: 1vh 2vw 1vh 0vw;
+    height: 8vh;
+  }
+  .date-balance-text{
+    font-family: 'Noto Sans';
+    font-weight: 700;
+    float: left;
+    font-size: 1.5em;
+    margin-left: 1vw;
+    margin-top: 1vh;
+    color:rgba(84, 84, 84, 1);
+  }
+  .month-balance-text{
+    font-family: 'Noto Sans';
+    margin-top: 1.8vh;
+    font-weight: 400;
+    font-size: 0.8em;
+    color:rgba(127, 127, 127, 1)
+}
